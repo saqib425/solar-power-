@@ -9714,7 +9714,7 @@ textarea.form-control {
   url(../images/solarhome.jpg);
   padding-top: 75px;
   background-attachment: fixed;
-  box-shadow: 5px 5px 10px  yellow, -5px -5px 10px  yellow ;
+  box-shadow: 5px 5px 10px  rgb(248, 248, 19), -5px -5px 10px  rgb(245, 245, 4);
   
 }
 
