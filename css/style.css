@@ -9631,4 +9631,31 @@ textarea.form-control {
   z-index: 3;
   
 }
+
+
+.slider_icon {
+
+  font-size: 80px;
+  color:#4e9525;
+  position:absolute;
+  top:20%;
+  right:30%;
+  z-index: 3;
+  text-shadow: 0px 0px 50px rgb(6, 16, 112);
+  
+}
+
+
+@media only screen and (max-width:450px) {
+  .slider_icon {
+
+    font-size: 40px;
+    color:#4e9525;
+   
+    position:absolute;
+    top:5px;
+    right:5px;
+    z-index: 3;
+  }
+}
     /* slider styling ends here */
