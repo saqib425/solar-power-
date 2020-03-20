@@ -9661,3 +9661,145 @@ textarea.form-control {
   }
 }
     /* slider styling ends here */
+
+
+
+    /*_____________________row4 starts _____________*/
+
+#row4 {
+  /*height: 500px;*/
+  /*background: lightblue;*/
+  padding-top: 100px;
+  
+
+}
+
+#row4 #row4_a {
+  /*height: 600px;*/
+  /* background-color: white; */
+  padding-bottom: 30px;
+  padding-right: 0px;
+  
+
+}
+
+#row4 #row4_a #row4_a_upper {
+  padding: 30px 0px 10px 0px;
+
+}
+
+#row4 #row4_a #row4_a_upper img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+#row4 #row4_a #row4_a_lower {
+  background: #034955;
+  /*height: 300px;*/
+  
+  }
+
+
+
+
+
+
+
+
+
+#row4 #row4_b {
+  /*height: 600px;*/
+  /* background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)), */
+  url(../images/solarhome.jpg);
+  padding-top: 75px;
+  background-attachment: fixed;
+  box-shadow: 5px 5px 10px  yellow, -5px -5px 10px  yellow ;
+  
+}
+
+
+
+#row4 #row4_c {
+  /*height: 600px;*/
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),
+  url(../images/connected.png);
+  padding-top: 75px;
+  background-attachment: fixed;
+  
+}
+
+
+
+
+
+
+/*_____________row4 ends _____________*/
+
+
+
+
+.green_heading {
+  padding-top: 150px;
+  background-color:  #4e9525;
+  height: 400px;
+  border-radius: 90% 40% 0px 0px;
+}
+
+.green_heading > h1 {
+  text-align: center;
+  font-size: 80px;
+  color:#4e9525;
+  text-shadow: -2px -2px 5px yellow;
+
+
+}
+
+.green_heading > h2, .green_heading >  h3 {
+  text-align: center;
+  font-size: 40px;
+  color:#4e9525;
+  text-shadow: -2px -2px 5px rgb(73, 73, 25);
+}
+
+#form_sider {
+  height: 300px;
+  width: 100%;
+  
+  border-left:4px inset  rgba(81, 128, 59, 0.945);
+  border-top:4px inset  rgba(81, 128, 59, 0.945);
+  border-bottom:4px inset  rgba(81, 128, 59, 0.945);
+}
+
+#form_sider> h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #4e9525;
+  text-shadow: -2px -2px 5px yellow;
+
+
+}
+
+.zheading {
+  
+  text-align: center;
+  color: #4e9525;
+  padding: 0px 15px;
+  font-size: 30px;
+  
+
+}
+
+.bg_green {
+  background-color:  #4e9525;
+}
+
+.text_yellow {
+  color:goldenrod;
+}
+
+.zpara {
+  padding-top: 60px;
+  text-align: center;
+
+}
