@@ -9759,7 +9759,7 @@ textarea.form-control {
   text-align: center;
   font-size: 40px;
   color:#4e9525;
-  text-shadow: -2px -2px 5px rgb(73, 73, 25);
+  text-shadow: -2px -2px 5px rgb(219, 219, 219);
 }
 
 #form_sider {
@@ -9774,7 +9774,7 @@ textarea.form-control {
 #form_sider> h1 {
   text-align: center;
   font-size: 30px;
-  color: #4e9525;
+  color: goldenrod;
   text-shadow: -2px -2px 5px yellow;
 
 
@@ -9792,6 +9792,10 @@ textarea.form-control {
 
 .bg_green {
   background-color:  #4e9525;
+}
+
+.bg_grey {
+  background :#eaeaea8c;
 }
 
 .text_yellow {
